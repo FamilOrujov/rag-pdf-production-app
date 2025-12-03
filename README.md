@@ -141,7 +141,7 @@ uv sync
 cp env.example .env
 # Edit .env and add your OPENAI_API_KEY
 ```
-Or just create `.env` file, and place your OpenAI API key inside it (OPENAI_API_KEY=sk-.....).
+Or just create `.env` file, and place your OpenAI API key inside it (`OPENAI_API_KEY=sk-proj-...`).
 
 #### Step 5: Start the application
 
