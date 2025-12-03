@@ -214,7 +214,7 @@ RAG-Production-App/
 
 | Variable | Required | Description |
 |----------|----------|-------------|
-| `OPENAI_API_KEY` | ✅ | Your OpenAI API key |
+| `OPENAI_API_KEY` | ✅ | OpenAI API key |
 | `QDRANT_URL` | ❌ | Qdrant URL (default: http://localhost:6333) |
 
 ---
