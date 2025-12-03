@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[oc]
+.venv
+*.egg-info
+
+# Local Qdrant storage (use Docker volume instead)
+qdrant_storage/
+
+# Environment files (passed via docker-compose)
+.env
+
+# Uploaded files (mounted as volume)
+uploads/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Misc
+*.md
+!README.md
+
