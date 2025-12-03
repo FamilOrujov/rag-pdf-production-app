@@ -42,15 +42,9 @@ A powerful RAG (Retrieval-Augmented Generation) application that lets you upload
 
 ## 🏗️ Architecture
 
-```
-
-<img src="https://github.com/user-attachments/assets/1107a26e-1cc2-4957-97bf-20e35e7e7cb2" />
-
-
-
-
-                              
-```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1107a26e-1cc2-4957-97bf-20e35e7e7cb2" alt="RAG App Architecture" width="100%"/>
+</p>
 
 ### Data Flow
 
