@@ -209,16 +209,6 @@ RAG-Production-App/
 └── env.example          # Environment template
 ```
 
----
-
-## 🔒 Environment Variables
-
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `OPENAI_API_KEY` | ✅ | OpenAI API key |
-| `QDRANT_URL` | ❌ | Qdrant URL (default: http://localhost:6333) |
-
----
 
 ## 📋 Commands Reference
 
