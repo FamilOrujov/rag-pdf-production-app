@@ -108,7 +108,7 @@ docker run -it --rm --name rag-app \
 
 #### Step 3: Open
 
-Go to **http://localhost:8501** 
+Access the editor at **http://localhost:8501** 
 
 ---
 
