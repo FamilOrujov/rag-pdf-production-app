@@ -248,10 +248,3 @@ uv run streamlit run streamlit_app.py
 
 # Run Inngest
 npx inngest-cli@latest dev -u http://127.0.0.1:8000/api/inngest --no-discovery
-```
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/familorujov">familorujov</a>
-</p>
