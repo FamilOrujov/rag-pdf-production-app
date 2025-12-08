@@ -1,3 +1,5 @@
+<div align="center>
+
 # 📄 RAG Production App
 
 A powerful RAG (Retrieval-Augmented Generation) application that lets you upload PDFs and ask questions about them using AI.
@@ -11,7 +13,7 @@ A powerful RAG (Retrieval-Augmented Generation) application that lets you upload
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/familorujov/rag-app)
 
 ---
-
+</div>
 ## 📑 Table of Contents
 
 - [Features](#-features)
