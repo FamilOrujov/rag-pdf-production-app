@@ -14,6 +14,7 @@ A powerful RAG (Retrieval-Augmented Generation) application that lets you upload
 
 ---
 </div>
+
 ## 📑 Table of Contents
 
 - [Features](#-features)
