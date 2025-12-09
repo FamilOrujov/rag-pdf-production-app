@@ -12,7 +12,7 @@ A powerful RAG (Retrieval-Augmented Generation) application that lets you upload
 
 ---
 
-## 📑 Table of Contents.
+## 📑 Table of Contents
 
 - [Features](#-features)
 - [Architecture](#-architecture)
